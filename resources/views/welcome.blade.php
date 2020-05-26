@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Crud Demo</title>
 </head>
 <body>
 <?php
