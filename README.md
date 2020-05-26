@@ -47,3 +47,12 @@ PUSHER_APP_CLUSTER=mt1
 
 MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
+
+
+============================================================
+
+After add .env file and after download venodr folder doesn't downloaded. After project folder downloaded, go to folder using command line and type a commend which define in below
+
+> composer update
+
+
